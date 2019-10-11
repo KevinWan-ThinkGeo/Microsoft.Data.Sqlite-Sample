@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29326.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SqliteTest", "SqliteTest\SqliteTest.csproj", "{93FC4AA5-0417-4D1D-8FA5-77A2364BA55B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SqliteTest_with_preview_package", "SqliteTest_with_preview_package\SqliteTest_with_preview_package.csproj", "{325D3C0F-BD26-4167-BA81-3CB5A377F87B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93FC4AA5-0417-4D1D-8FA5-77A2364BA55B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93FC4AA5-0417-4D1D-8FA5-77A2364BA55B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93FC4AA5-0417-4D1D-8FA5-77A2364BA55B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93FC4AA5-0417-4D1D-8FA5-77A2364BA55B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{325D3C0F-BD26-4167-BA81-3CB5A377F87B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{325D3C0F-BD26-4167-BA81-3CB5A377F87B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{325D3C0F-BD26-4167-BA81-3CB5A377F87B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{325D3C0F-BD26-4167-BA81-3CB5A377F87B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D7A970E-8E54-4BAC-AAAB-CD44461A99AB}
+	EndGlobalSection
+EndGlobal
